@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[702],{2695:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var d=r(n(0)),i=r(n(280));function r(e){return e&&e.__esModule?e:{default:e}}t.default=function(){return d.default.createElement("div",{role:"main"},d.default.createElement(i.default,{id:"link",href:"https://www.cerner.com",variant:"video"},"Video hyperlink"))}}}]);
+//# sourceMappingURL=702-4710a5965ee8dddf20bc.js.map

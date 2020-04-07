@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[664],{2454:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var n=i(a(0)),o=i(a(136));function i(e){return e&&e.__esModule?e:{default:e}}t.default=function(){return n.default.createElement(o.default,{id:"two-initials-avatar",initials:"JSS",alt:"Joe S Shane",color:"two"})}}}]);
+//# sourceMappingURL=664-ec2a76d5a339f34bb1a0.js.map

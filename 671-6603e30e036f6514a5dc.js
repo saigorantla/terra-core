@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[671],{2468:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var n=u(a(0)),l=u(a(293));function u(e){return e&&e.__esModule?e:{default:e}}var d=function(){return n.default.createElement(l.default,{locale:"gabcdef",translationsLoadingPlaceholder:n.default.createElement("div",null,"No Translations")},n.default.createElement("div",null,"Translations"))};t.default=d}}]);
+//# sourceMappingURL=671-6603e30e036f6514a5dc.js.map
